@@ -2,8 +2,10 @@ package gitproject;
 
 public class Demo {
 public static void main(String[] args) {
-	System.out.println("Hello world");
+	int sum = 345+567;
+	System.out.println(sum);
 	
-	System.out.println("Shubham");
+	int mul = 456*89;
+	System.out.println(mul);
 }
 }
